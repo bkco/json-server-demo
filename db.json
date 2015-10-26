@@ -1,0 +1,40 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "name": "John"
+    },
+    {
+      "id": 1,
+      "name": "Paul"
+    },
+    {
+      "id": 2,
+      "name": "Ringo"
+    },
+    {
+      "id": 3,
+      "name": "George"
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 7
+    },
+    {
+      "name": "rubyruby",
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": "BrianTK",
+      "id": 11
+    }
+  ]
+}
