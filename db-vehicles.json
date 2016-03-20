@@ -1,0 +1,113 @@
+{
+  "gps": {   "totalRecords": 7,
+    "status": "success",
+    "records": [
+        {
+            "assetIconId": 0,
+            "assetLastSeen": 0,
+            "latitude": 55.752640,
+            "description": "2007 FORD RANGER",
+            "deviceId": 284,
+            "profileId": 0,
+            "statusString": "Waiting for first heartbeat",
+            "name": "A Vehicle 02",
+            "IPAddress": "192.168.0.102",
+            "alertState": 0,
+            "assetGPSLastSeen": 1446479450748,
+            "statusCode": 1,
+            "longitude": 12.175609
+        },
+        {
+            "assetIconId": 0,
+            "assetLastSeen": 0,
+            "latitude": 55.750741,
+            "description": "2008 FORD E250",
+            "deviceId": 285,
+            "profileId": 0,
+            "statusString": "Waiting for first heartbeat",
+            "name": "A Vehicle 03",
+            "IPAddress": "192.168.0.102",
+            "alertState": 0,
+            "assetGPSLastSeen": 1446479451358,
+            "statusCode": 1,
+            "longitude": 12.157868
+        },
+        {
+            "assetIconId": 0,
+            "assetLastSeen": 0,
+            "latitude": 55.746241,
+            "description": "2010 FORD TRANSIT",
+            "deviceId": 286,
+            "profileId": 0,
+            "statusString": "Waiting for first heartbeat",
+            "name": "A Vehicle 04",
+            "IPAddress": "192.168.0.102",
+            "alertState": 0,
+            "assetGPSLastSeen": 1446479453199,
+            "statusCode": 1,
+            "longitude": 12.144749
+        },
+        {
+            "assetIconId": 0,
+            "assetLastSeen": 0,
+            "latitude": 55.734987,
+            "description": "2008 FORD E250",
+            "deviceId": 287,
+            "profileId": 0,
+            "statusString": "Waiting for first heartbeat",
+            "name": "A Vehicle 05",
+            "IPAddress": "192.168.0.102",
+            "alertState": 0,
+            "assetGPSLastSeen": 1446479453228,
+            "statusCode": 1,
+            "longitude": 12.136878
+        },
+        {
+            "assetIconId": 0,
+            "assetLastSeen": 0,
+            "latitude": 55.75907,
+            "description": "2012 CHEVROLET SILVERADO 1500",
+            "deviceId": 293,
+            "profileId": 0,
+            "statusString": "Waiting for first heartbeat",
+            "name": "A Vehicle 11",
+            "IPAddress": "192.168.0.102",
+            "alertState": 0,
+            "assetGPSLastSeen": 1446479456255,
+            "statusCode": 1,
+            "longitude": 12.195865
+        },
+        {
+            "assetIconId": 0,
+            "assetLastSeen": 0,
+            "latitude": 55.755146,
+            "description": "2015 CHEVROLET EXPRESS",
+            "deviceId": 298,
+            "profileId": 0,
+            "statusString": "Waiting for first heartbeat",
+            "name": "A Vehicle 16",
+            "IPAddress": "192.168.0.102",
+            "alertState": 0,
+            "assetGPSLastSeen": 1446477751639,
+            "statusCode": 1,
+            "longitude": 12.208074
+        },
+        {
+            "assetIconId": 13,
+            "assetLastSeen": 0,
+            "latitude": 55.755146,
+            "description": "ghjhkjh",
+            "deviceId": 300,
+            "profileId": 1,
+            "statusString": "Waiting for first heartbeat",
+            "name": "Vehicle18",
+            "IPAddress": "192.168.0.102",
+            "alertState": 0,
+            "assetGPSLastSeen": 1446477752307,
+            "statusCode": 1,
+            "longitude": 12.208074
+        }
+    ]
+}
+
+}
