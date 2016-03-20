@@ -23,4 +23,3 @@ cd json-server-demo
 mkdir public  
 cd public  
 ln -s  /path/to/code/project/* /location/of/json-server-demo/public/  
-
